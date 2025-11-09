@@ -1,5 +1,5 @@
 [servers]
-pi5 ansible_host=100.64.2.10
+pi5 ansible_host=pi5
 
 [all:vars]
 ansible_python_interpreter=/usr/bin/python3
